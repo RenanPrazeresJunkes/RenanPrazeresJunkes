@@ -1,6 +1,6 @@
 ### Opa, sou o Renan Prazeres
 
-Estudante da 3º Fase de Análise e Desenvolvimento de Sistemas
+Estudante da 5º Fase de Análise e Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-prazeres-474b81207/)
 
